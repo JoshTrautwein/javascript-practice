@@ -10,4 +10,5 @@ function concatinate(input){
         newString = newString + input[i];
     }
     alert(newString);
+    console.log("Test statement")
 }
